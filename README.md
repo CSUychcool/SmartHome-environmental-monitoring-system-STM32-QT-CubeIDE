@@ -1,0 +1,1 @@
+# SmartHome-environmental-monitoring-system-STM32-QT-CubeIDE
