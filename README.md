@@ -4,6 +4,7 @@
 Cubeide 1.19.0
 Qt      6.9.1
 
+开关灯按钮控制STM32相连的LED灯
 
 <img width="587" height="573" alt="image" src="https://github.com/user-attachments/assets/3d128c45-b7c8-437f-92ec-214cd58071c4" />
 
