@@ -6,6 +6,8 @@ Qt      6.9.1
 
 开关灯按钮控制STM32相连的LED灯
 
+通过传感器数据绘制折线图
+
 <img width="587" height="573" alt="image" src="https://github.com/user-attachments/assets/3d128c45-b7c8-437f-92ec-214cd58071c4" />
 
 <img width="600" height="595" alt="image" src="https://github.com/user-attachments/assets/47d79d57-f2d4-4db6-a3fc-cda8bbfb2c12" />
