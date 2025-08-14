@@ -1,12 +1,12 @@
-#智能家居/环境检测系统，linux环境用STM32C8T6采集传感器数据，QT作为上位机编写界面良好，两者之间通过USART串口通信，附加天气预报和deepseekAI小助手的功能
+_#智能家居/环境检测系统，linux环境用STM32C8T6采集传感器数据，QT作为上位机编写界面良好，两者之间通过USART串口通信，附加天气预报和deepseekAI小助手的功能
 
 版本：Version:
 
-Ubuntu  24.04
+Ubuntu    24.04
 
-Cubeide 1.19.0
+Cubeide  1.19.0
 
-Qt      6.9.1
+Qt       6.9.1
 
 开关灯按钮控制STM32相连的LED灯
 
@@ -25,3 +25,4 @@ Qt      6.9.1
 <img width="591" height="581" alt="image" src="https://github.com/user-attachments/assets/c951b812-8fcc-4f79-9f3e-b54aed48fbc8" />
 
 
+_
