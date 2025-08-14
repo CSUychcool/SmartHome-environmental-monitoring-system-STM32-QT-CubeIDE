@@ -1,6 +1,7 @@
-#智能家居/环境检测系统，用STM32C8T6采集传感器数据，QT作为上位机编写界面良好，两者之间通过USART串口通信，附加天气预报和deepseekAI小助手的功能
+#智能家居/环境检测系统，linux环境用STM32C8T6采集传感器数据，QT作为上位机编写界面良好，两者之间通过USART串口通信，附加天气预报和deepseekAI小助手的功能
 
 版本：Version:
+Ubuntu  24.04
 Cubeide 1.19.0
 Qt      6.9.1
 
